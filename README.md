@@ -4,7 +4,7 @@ Personal installer using ALIS to install and configure arch quickly. To be exten
 
 ## usage
 
-```curl -L korevec.net/arch | sh```
+```sh -c "$(curl -sSL iarch.korevec.link)"```
 
 
 ## credits
