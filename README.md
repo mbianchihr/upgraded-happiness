@@ -5,3 +5,7 @@ Personal installer using ALIS to install and configure arch quickly. To be exten
 ## usage
 
 ```curl -L korevec.net/arch | sh```
+
+
+## credits
+more on ALIS -> https://github.com/picodotdev/alis/blob/master/README.md
